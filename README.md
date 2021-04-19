@@ -5,7 +5,7 @@
 ### Requirements
 - Python 3
 - PyTorch 
-- torch_geometry
+- torch_geometric
 
 ### How to run
 ```bash
